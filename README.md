@@ -1,4 +1,12 @@
-# Jumia_Andriod_Analysis
+# Cheapest Andriod Phone with Good Specification Analysis
+
+This project involves the 
+1. Collection of data, 
+2. Cleaning and 
+3. Analysis. 
+
+### 1. Collection of Data
+The data was collected through webscraping https://jumia.com.ng. The bs4 and request library were used in obtaining the pages containing andriod devices. The **brands, current price, description and old price** was obtained for each device 
 
 The process involves the entire data collection, cleaning and data analysis process. The entire process is broken down into three different notebooks.
 
